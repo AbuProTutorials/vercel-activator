@@ -1,1 +1,1 @@
-# vercel-activator
+# Activator of Windows products
